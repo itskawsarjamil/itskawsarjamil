@@ -26,11 +26,12 @@
   
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
-<a href="">
-  <img align="left" alt="its_kawsarjamil" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" />
-</a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="itskawsarjamil" height="30" width="40" /></a>  
+
 <a href="https://mobile.twitter.com/its_kawsarjamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_kawsarjamil" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/itskawsarjamil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itskawsarjamil" height="30" width="40" /></a>  
+
 <a href="https://www.facebook.com/itskawsarjamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itskawsarjamil" height="30" width="40" /></a> 
 
 
