@@ -14,7 +14,7 @@
   <img align="left" alt="Protfolio" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" />
 </a>
 
-<a href="discordapp.com/users/759014825941663812">
+<a href="discord.com/users/759014825941663812">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
