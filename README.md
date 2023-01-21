@@ -41,7 +41,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1h5sFIUkDQlDiVlVkU0iLiV-B_9UOmXK2/view?usp=sharing" target="_blank">Resume</a>
+If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1Vsyu92gWH9g08VIWx1R9g35p6YEgs6Id/view?usp=sharing" target="_blank">Resume</a>
 
 
 <!-- <br/>
