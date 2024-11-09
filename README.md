@@ -53,7 +53,9 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1omPSVYbEbBlqZ5-Q-ahfzFbS-oyL3SSL/view?usp=sharing" target="_blank">Resume</a>
+If you like what I do, take a look at my <a target="_blank" href="https://itskawsarjamil.netlify.app/">Portfolio</a>
+
+or my resume <a href="https://drive.google.com/file/d/1omPSVYbEbBlqZ5-Q-ahfzFbS-oyL3SSL/view?usp=sharing" target="_blank">Resume</a>
 
 
  <br/>
