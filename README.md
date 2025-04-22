@@ -55,7 +55,7 @@
 
 If you like what I do, take a look at my <a target="_blank" href="https://itskawsarjamil.netlify.app/">Portfolio</a>
 
-or my resume <a href="https://drive.google.com/file/d/1omPSVYbEbBlqZ5-Q-ahfzFbS-oyL3SSL/view?usp=sharing" target="_blank">Resume</a>
+or my resume <a href="https://drive.google.com/file/d/1YRgwK2qgDmZD8i_KM0rOHKGXLxUulV7P/view" target="_blank">Resume</a>
 
 
  <br/>
